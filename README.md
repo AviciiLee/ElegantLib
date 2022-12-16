@@ -1,2 +1,2 @@
-# ElegentUI
-elegent ui library
+# ElegantUI
+an elegant ui library
